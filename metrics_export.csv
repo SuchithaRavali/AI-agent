@@ -1,0 +1,6 @@
+week_ending,onboarding_completion_rate_pct,time_to_first_value_days,onboarding_support_tickets,budget_spent_cumulative_usd,budget_total_usd,pilot_share_of_new_customers_pct
+2026-08-28,66.0,6.4,138,148000,240000,0
+2026-09-04,67.5,6.2,142,160500,240000,10
+2026-09-11,68.0,5.8,131,171200,240000,10
+2026-09-18,69.0,5.5,156,186900,240000,25
+2026-09-25,71.0,5.1,124,203400,240000,50
